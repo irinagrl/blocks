@@ -4,4 +4,4 @@ This is a 1-page website to show HTML and CSS skills. It is a technical assignme
 ## v0.0.1
 
 ### gh-pages
-http://irinamsvch.github.io/blocks
+http://irinagrl.github.io/blocks
